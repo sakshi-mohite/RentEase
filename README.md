@@ -2,4 +2,4 @@
 
 Deployment Application :
 
-The application is live and can be accessed here : https://rentease2.onrender.com
+The application is live and can be accessed here : [https://rentease2.onrender.com](https://rentease2.onrender.com/listings)
